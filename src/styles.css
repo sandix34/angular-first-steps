@@ -77,6 +77,7 @@ label {
 .button, button {
   display: inline-flex;
   align-items: center;
+  margin-left: 15px;
   padding: 8px 16px;
   border-radius: 2px;
   font-size: 14px;
